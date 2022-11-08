@@ -37,7 +37,7 @@ done | tee hosts.csv
 echo -e "${YELLOW}"
 echo "___________________________________________________________"
 
-#port scan with portmapping.sh
+#port scan with portsp33d.sh
 echo ""
 echo "Port Scan:"
 echo -e "${LGREEN}"
